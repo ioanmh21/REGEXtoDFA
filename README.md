@@ -1,5 +1,5 @@
 # REGEXtoDFA
-## Conversia unei expresii regulate in DFA
+Conversia unei expresii regulate in DFA
 
 ## Programul implementat urmeaza urmatorii pasi in rezolvarea problemei:
 1. Se adauga la expresia regulata operatorul de concatenare.
