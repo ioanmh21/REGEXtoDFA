@@ -128,7 +128,7 @@ def thompson_nfa(postfix):
             stack.append(Fragment(start, {accept}))
 
         else:
-            raise ValueError(f"Simbol invalid în postfix: {char}")
+            raise ValueError("Error")
 
     return stack[0]
 
